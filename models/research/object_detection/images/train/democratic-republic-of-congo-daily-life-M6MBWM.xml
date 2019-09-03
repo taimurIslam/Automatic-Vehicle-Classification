@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>democratic-republic-of-congo-daily-life-M6MBWM.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\democratic-republic-of-congo-daily-life-M6MBWM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>315</ymin>
+			<xmax>1168</xmax>
+			<ymax>830</ymax>
+		</bndbox>
+	</object>
+</annotation>

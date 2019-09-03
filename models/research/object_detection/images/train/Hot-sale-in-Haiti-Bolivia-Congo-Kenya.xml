@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Hot-sale-in-Haiti-Bolivia-Congo-Kenya.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\Hot-sale-in-Haiti-Bolivia-Congo-Kenya.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>189</ymin>
+			<xmax>1000</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+</annotation>

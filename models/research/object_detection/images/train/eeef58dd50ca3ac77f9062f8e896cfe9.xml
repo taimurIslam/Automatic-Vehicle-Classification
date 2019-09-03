@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>eeef58dd50ca3ac77f9062f8e896cfe9.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\eeef58dd50ca3ac77f9062f8e896cfe9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>1335</ymin>
+			<xmax>2825</xmax>
+			<ymax>2448</ymax>
+		</bndbox>
+	</object>
+</annotation>

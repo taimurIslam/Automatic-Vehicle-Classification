@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>DSC_7698 Resized.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\DSC_7698 Resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>858</xmin>
+			<ymin>768</ymin>
+			<xmax>3410</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+</annotation>

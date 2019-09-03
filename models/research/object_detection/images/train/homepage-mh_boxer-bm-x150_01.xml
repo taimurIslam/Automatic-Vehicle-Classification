@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>homepage-mh_boxer-bm-x150_01.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\homepage-mh_boxer-bm-x150_01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1450</width>
+		<height>671</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>585</xmin>
+			<ymin>188</ymin>
+			<xmax>1128</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

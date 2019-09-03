@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>africa-congo-point-noire-man-standing-by-motorcycle-in-street-DEF91E.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\train\africa-congo-point-noire-man-standing-by-motorcycle-in-street-DEF91E.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>606</xmin>
+			<ymin>372</ymin>
+			<xmax>1232</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>

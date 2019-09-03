@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>motorcycle-lesson.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\test\motorcycle-lesson.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>502</ymin>
+			<xmax>729</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>

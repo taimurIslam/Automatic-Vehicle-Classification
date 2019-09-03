@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>tumblr_n6ycx3Jtl31rdhymbo1_1280.jpg</filename>
+	<path>C:\Users\ASUS PC\Desktop\Automatic-Vehicle-Classification\models\research\object_detection\images\test\tumblr_n6ycx3Jtl31rdhymbo1_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>481</ymin>
+			<xmax>1045</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>
